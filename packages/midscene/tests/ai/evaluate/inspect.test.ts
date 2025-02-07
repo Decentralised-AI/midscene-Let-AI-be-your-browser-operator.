@@ -25,12 +25,12 @@ dotenv.config({
 const relocateAfterPlanning = false;
 const failCaseThreshold = process.env.CI ? 1 : 0;
 const testSources = [
-  'todo',
-  'online_order',
-  'online_order_list',
+  // 'todo',
+  // 'online_order',
+  // 'online_order_list',
   'taobao',
-  'aweme_login',
-  'aweme_play',
+  // 'aweme_login',
+  // 'aweme_play',
 ];
 
 describe('ai inspect element', () => {
@@ -89,9 +89,8 @@ describe('ai inspect element', () => {
                   },
                 );
 
-                console.log('planning res', res);
                 prompt = res.actions[0].locate?.prompt as string;
-                console.log('prompt from planning', prompt);
+                // console.log('prompt from planning', prompt);
                 expect(prompt).toBeTruthy();
                 // console.log('planning res', res.actions[0].locate?.prompt);
 

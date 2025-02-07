@@ -1,128 +1,141 @@
+                <>
+                  <span id="ckpnh"  svgContent="true" left="77" top="21" width="23" height="23">
+                  </span>
+                </>
+                <>
+                  <p id="oapii" markerId="1"  left="112" top="9" width="557" height="64">
+                    We use optional cookies to improve your experience on our websites, such as through social media connections, and to display personalized advertising ...
+                  </p>
                   <>
-                    <span id="fglbl"   left="116" top="17" width="170" height="24">
+                    <a id="gneli" markerId="2"  left="112" top="57" width="499" height="32">
+                      Privacy Statement
+                    </a>
+                  </>
+                  <>
+                    <a id="dbgaa" markerId="3"  left="178" top="73" width="121" height="15">
+                      Third-Party Cookies
+                    </a>
+                  </>
+                </>
+              <>
+                <div id="ojnll" markerId="4" type="button" class="._1XuCi2WhiqeWRUVp3pnFG3.erL690_8JwUW-R4bJRcfl" left="738" top="31" width="150" height="36">
+                  Accept
+                </div>
+                <div id="eikck" markerId="5" type="button" class="._1XuCi2WhiqeWRUVp3pnFG3.erL690_8JwUW-R4bJRcfl" left="900" top="31" width="150" height="36">
+                  Reject
+                </div>
+                <div id="mdpkp" markerId="6" type="button" class="._1XuCi2WhiqeWRUVp3pnFG3.erL690_8JwUW-R4bJRcfl" left="1062" top="31" width="150" height="36">
+                  Manage cookies
+                </div>
+              </>
+                  <>
+                    <span id="jncoo" markerId="7"  left="116" top="114" width="170" height="24">
                       Visual Studio Code
                     </span>
                   </>
                     <>
-                      <a id="hbbjm" markerId="1"  left="313" top="20" width="38" height="19">
+                      <a id="fihoo" markerId="8"  left="313" top="117" width="38" height="19">
                         Docs
                       </a>
                     </>
                     <>
-                      <a id="ldhod" markerId="2"  left="375" top="20" width="63" height="19">
+                      <a id="cimgj" markerId="9"  left="375" top="117" width="63" height="19">
                         Updates
                       </a>
                     </>
                     <>
-                      <a id="njicg" markerId="3"  left="461" top="20" width="33" height="19">
+                      <a id="jkekg" markerId="10"  left="461" top="117" width="33" height="19">
                         Blog
                       </a>
                     </>
                     <>
-                      <a id="bpelm" markerId="4"  left="519" top="20" width="25" height="19">
+                      <a id="ccihn" markerId="11"  left="519" top="117" width="25" height="19">
                         API
                       </a>
                     </>
                     <>
-                      <a id="jdhej" markerId="5"  left="568" top="20" width="81" height="19">
+                      <a id="mcjoe" markerId="12"  left="568" top="117" width="81" height="19">
                         Extensions
                       </a>
                     </>
                     <>
-                      <a id="jfnal" markerId="6"  left="672" top="20" width="31" height="19">
+                      <a id="ajgip" markerId="13"  left="672" top="117" width="31" height="19">
                         FAQ
                       </a>
                     </>
                     <>
-                      <a id="pnpcb" markerId="7"  left="727" top="20" width="109" height="19">
+                      <a id="ajmaa" markerId="14"  left="727" top="117" width="109" height="19">
                         GitHub Copilot
                       </a>
                     </>
                   <>
-                    <li id="copdb" markerId="8" type="button" class=".theme-switch" id="theme-toggle" left="849" top="13" width="32" height="32">
+                    <li id="dffkc" markerId="15" type="button" class=".theme-switch" id="theme-toggle" left="849" top="110" width="32" height="32">
                     </li>
                   </>
                       <>
-                        <input id="bminn" markerId="9" type="text" name="q" class=".search-box.form-control" placeholder="Search Docs" aria-label="Search text" undefined="" left="885" top="13" width="200" height="32">
+                        <input id="jmgle" markerId="16" type="text" name="q" class=".search-box.form-control" placeholder="Search Docs" aria-label="Search text" undefined="" left="885" top="110" width="200" height="32">
                           Search Docs
                         </input>
                         <>
-                          <span id="cipnh" markerId="10" tabindex="0" class=".btn" type="submit" aria-label="Search" left="892" top="19" width="28" height="20">
+                          <span id="bcjon" markerId="17" tabindex="0" class=".btn" type="submit" aria-label="Search" left="892" top="116" width="28" height="20">
                           </span>
                         </>
                       </>
                       <>
-                        <span id="opjng" markerId="11"  left="1109" top="20" width="75" height="19">
+                        <span id="kicfk" markerId="18"  left="1109" top="117" width="75" height="19">
                           Download
                         </span>
                       </>
-          <>
-            <p id="befbo" markerId="12"  left="496" top="77" width="45" height="17">
-              🚀 Get
-            </p>
-            <>
-              <a id="hcbca" markerId="13"  left="541" top="77" width="130" height="17">
-                GitHub Copilot Free
-              </a>
-            </>
-            <p id="bjijb" markerId="14"  left="671" top="77" width="80" height="17">
-              in VS Code!
-            </p>
-          </>
-        <>
-          <div id="jnkgi" markerId="15" aria-hidden="true" class=".glyph-icon" left="1241" top="73" width="15" height="21">
-          </div>
-        </>
               <>
-                <h1 id="cphhj" markerId="16"  left="350" top="139" width="581" height="171">
+                <h1 id="cphhj" markerId="19"  left="350" top="139" width="581" height="171">
                   Your code editor. Redefined with AI.
                 </h1>
               </>
                   <>
-                    <div id="emfmn" markerId="17" type="button" class=".link-button.dlink" data-os="win" id="download-buttons-win" left="430" top="336" width="235" height="48">
+                    <div id="emfmn" markerId="20" type="button" class=".link-button.dlink" data-os="win" id="download-buttons-win" left="430" top="336" width="235" height="48">
                       Download for Windows
                     </div>
                     <>
-                      <a id="nhofd" markerId="18"  left="696" top="349" width="133" height="22">
+                      <a id="nhofd" markerId="21"  left="696" top="349" width="133" height="22">
                         Get Copilot Free
                       </a>
                     </>
                   </>
                   <>
-                    <a id="aolaj" markerId="19"  left="523" top="394" width="26" height="14">
+                    <a id="aolaj" markerId="22"  left="523" top="394" width="26" height="14">
                       Web
                     </a>
                   </>
-                  <p id="fjkhe" markerId="20"  left="549" top="394" width="7" height="14">
+                  <p id="fjkhe" markerId="23"  left="549" top="394" width="7" height="14">
                     ,
                   </p>
                   <>
-                    <a id="ighlp" markerId="21"  left="556" top="394" width="89" height="14">
+                    <a id="ighlp" markerId="24"  left="556" top="394" width="89" height="14">
                       Insiders edition
                     </a>
                   </>
-                  <p id="cfbdk" markerId="22"  left="645" top="394" width="22" height="14">
+                  <p id="cfbdk" markerId="25"  left="645" top="394" width="22" height="14">
                     , or
                   </p>
                   <>
-                    <a id="llkjk" markerId="23"  left="667" top="394" width="90" height="14">
+                    <a id="llkjk" markerId="26"  left="667" top="394" width="90" height="14">
                       other platforms
                     </a>
                   </>
                 <>
-                  <p id="dglpo" markerId="24"  left="466" top="423" width="184" height="13">
+                  <p id="dglpo" markerId="27"  left="466" top="423" width="184" height="13">
                     By using VS Code, you agree to its
                   </p>
                     <>
-                      <a id="mknif" markerId="25"  left="650" top="423" width="38" height="13">
+                      <a id="mknif" markerId="28"  left="650" top="423" width="38" height="13">
                         license
                       </a>
                     </>
-                    <span id="lnfni" markerId="26"  left="688" top="423" width="26" height="13">
+                    <span id="lnfni" markerId="29"  left="688" top="423" width="26" height="13">
                       and
                     </span>
                     <>
-                      <a id="ajndm" markerId="27"  left="714" top="423" width="96" height="13">
+                      <a id="ajndm" markerId="30"  left="714" top="423" width="96" height="13">
                         privacy statement
                       </a>
                     </>

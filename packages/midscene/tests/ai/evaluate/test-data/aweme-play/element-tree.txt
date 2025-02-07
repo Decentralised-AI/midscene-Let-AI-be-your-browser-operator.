@@ -35,11 +35,11 @@
                                           </span>
                                         </>
                                         <>
-                                          <span id="djknm" markerId="9" svgContent="true" left="1201" top="768" width="21" height="17">
+                                          <span id="jjaep" markerId="9" svgContent="true" left="1203" top="769" width="18" height="16">
                                           </span>
                                         </>
                                       <>
-                                        <div id="pmfho" markerId="10" svgContent="true" left="1165" top="769" width="22" height="17">
+                                        <div id="hkggg" markerId="10" svgContent="true" left="1167" top="770" width="19" height="16">
                                         </div>
                                       </>
                                         <>
@@ -127,15 +127,15 @@
                                           9513
                                         </div>
                                       </>
-                                    <>
-                                      <div id="odbna" markerId="30" svgContent="true" left="1206" top="648" width="21" height="18">
-                                      </div>
+                                      <>
+                                        <div id="cibok" markerId="30" svgContent="true" left="1205" top="646" width="25" height="21">
+                                        </div>
+                                      </>
                                       <>
                                         <div id="fhono" markerId="31"  left="1195" top="673" width="45" height="21">
                                           看相关
                                         </div>
                                       </>
-                                    </>
                                     <>
                                       <span id="heiea" markerId="33"  left="520" top="346" width="240" height="20">
                                         不支持的音频/视频格式 或 设备无网络
@@ -155,7 +155,7 @@
                             <div id="cmdpm" markerId="36" class=".zNBuJls_" type="button" left="1248" top="375" width="32" height="50">
                             </div>
                           </>
-    <>
-      <div id="lipfe" markerId="37" alt="fg-entry" class=".fg-img-entry__inner" left="1216" top="720" width="40" height="40">
-      </div>
-    </>
+          <>
+            <div id="bjbki" markerId="37" svgContent="true" left="1228" top="752" width="36" height="36">
+            </div>
+          </>

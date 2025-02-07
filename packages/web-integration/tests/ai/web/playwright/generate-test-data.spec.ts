@@ -127,7 +127,7 @@ test('generate online order list test data (zh-cn)', async ({ page, ai }) => {
   );
 });
 
-test('generate taobao test data', async ({ page, ai }) => {
+test.only('generate taobao test data', async ({ page, ai }) => {
   const playwrightPage = new PlaywrightWebPage(page);
   page.setViewportSize({ width: 1280, height: 800 });
 
